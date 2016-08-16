@@ -1,0 +1,141 @@
+<div class="flex">
+     <div style="border-bottom : 1px solid lightgray ; color= RGBA(1, 11, 45, 0.72)"> <b> دسته بندی موضوعی </b></div>
+     <div>
+         <table border="0" weight="170" height="200" padding="2px">
+            
+                 <tr>  
+                 <td>
+                    <ul>
+                         
+                         <li><a class="a" href="https://discourse.padpors.com/tags/%D8%A2%D9%85%D9%88%D8%B2%D8%B4" style="color:black" > آموزش</a></li>
+                         
+                     </ul>
+                 </td>
+                 <td align="right">
+                     <ul>
+                         
+                         <li><a class="a" href="https://discourse.padpors.com/c/problem" style="color:gray"> مسئله </a></li>
+                         
+                     </ul>
+                    
+                 </td>
+                 </tr>
+                  <tr>  
+                 <td>
+                    <ul>
+                         
+                         <li><a class="a" href="https://discourse.padpors.com/tags/%D8%A7%D9%86%D8%B1%DA%98%DB%8C" style="color:black"> انرژی  </a> </li>
+                         
+                     </ul>
+                 </td>
+                 <td align="right">
+                     <ul>
+                         
+                         <li><a class="a" href="https://discourse.padpors.com/c/Question" style="color:gray"> پرسش </a></li>
+                         
+                     </ul>
+                    
+                 </td>
+                 </tr>
+                 <tr>  
+                 <td>
+                    <ul>
+                         
+                         <li><a class="a" href="https://discourse.padpors.com/tags/%D8%B2%D9%86%D8%AF%DA%AF%DB%8C_%D8%B4%D9%87%D8%B1%DB%8C" style="color:black"> زندگی شهری  </a> </li>
+                         
+                     </ul>
+                 </td>
+                 <td align="right">
+                     <ul>
+                         
+                         <li><a class="a" href="https://discourse.padpors.com/c/Idea" style="color:gray"> ایده </a></li>
+                         
+                     </ul>
+                    
+                 </td>
+                 </tr>
+                 <tr>  
+                 <td>
+                    <ul>
+                         
+                         <li><a class="a" href="https://discourse.padpors.com/tags/%D8%B3%D9%84%D8%A7%D9%85%D8%AA" style="color:black"> سلامت </a>  </li>
+                         
+                     </ul>
+                 </td>
+                 <td align="right">
+                     <ul>
+                         
+                         <li><a class="a" href="https://discourse.padpors.com/c/experience" style="color:gray"> تجربه </a></li>
+                         
+                     </ul>
+                    
+                 </td>
+                 </tr>
+                 <tr>
+                     <td align="right">
+                         <ul>
+                             
+                             <li><a class="a" href="https://discourse.padpors.com/tags/%D8%AD%D8%B1%D9%81%D9%87" style="color:black"> کسب و کار </a></li>
+                             
+                         </ul>
+                         
+                     </td>
+                 </tr>
+                 <tr>
+                     <td align="right">
+                         <ul>
+                             
+                             <li><a class="a" href="https://discourse.padpors.com/tags/%D9%85%D8%AD%DB%8C%D8%B7_%D8%B2%DB%8C%D8%B3%D8%AA" style="color:black"> محیط زیست</a></li>
+                             
+                         </ul>
+                         
+                     </td>
+                 </tr>
+                 <tr>
+                     <td align="right">
+                         <ul>
+                             
+                             <li><a class="a" href="https://discourse.padpors.com/tags/%D9%85%D8%A7%D9%84%DB%8C" style="color:black"> مالی </a></li>
+                             
+                         </ul>
+                         
+                     </td>
+                 </tr>
+                
+
+         </table> 
+     </div>
+     <div style="border-bottom : 1px solid lightgray ; color= RGBA(1, 11, 45, 0.72)"> <b> منتخب </b></div>
+     <div>
+        <!-- -->
+        <div id="navtxt" class="navtext" style="visibility:hidden; display:inline; top:0px; left:-400px; z-index:10000; padding:10px"></div>
+
+<script  language="javascript" src="http://rozup.ir/view/1013402/alttxt.js"></script> 
+<div style='display:none'><h1><a title="codebazan" href="https://discourse.padpors.com/t/%D8%A7%D8%AB%D8%B1-%D8%A7%D9%86%DA%AF%D8%B4%D8%AA-%D8%A8%D9%87-%D8%AC%D8%A7%DB%8C-%DA%A9%D8%A7%D8%B1%D8%AA-%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1%DB%8C/747/23">پادپرس</a></h1></div>
+  
+
+<a href="https://discourse.padpors.com/t/%D8%A7%D8%AB%D8%B1-%D8%A7%D9%86%DA%AF%D8%B4%D8%AA-%D8%A8%D9%87-%D8%AC%D8%A7%DB%8C-%DA%A9%D8%A7%D8%B1%D8%AA-%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1%DB%8C/747/23" onmouseover="writetxt('تکنولوژی')" onmouseout="writetxt(0)"> اثرانگشت به جای استفاده از کارت های اعتباری
+         </a>         
+        
+        
+        
+        
+         
+     </div>
+     
+    <!-- <div id="navtxt" class="navtext" style="visibility:hidden; position:absolute; top:0px; left:-400px; z-index:10000; 
+     padding:10px"></div>  
+
+
+<div style='display:none'><h1><a title="codebazan" href="http://codebazan.ir">codebazan</a></h1></div>
+  -->
+
+    
+     
+     
+     
+     
+     
+</div>
+
+
