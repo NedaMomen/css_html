@@ -1,76 +1,35 @@
-@media screen and (min-width: 1130px){
+@media screen and (min-width: 850px){
+
 .flex {
-        /* basic styling */
-        width: 15%;
-     //   height: 200px;
-        border-right: 2px dashed lightgray;
-        border-left: 2px dashed lightgray;
-
-       // border-radius:5px;
-        padding: 0 20px 0 20px;
-      //  font: 14px Arial;
-        top: 220px;
-        left: 60px;
-        position: absolute;
-
-        
-
-        /* flexbox setup */
-        display:flex;
-        flex-direction:column;
-        justify-content:space-between;
-        flex-wrap: nowrap;
-    }
-    
-    .flex > div {
-        
-       
-        height:30px;
-        width: 90%; 
-       
-    }
-
-
-    .flex > div:nth-child(1){ 
-        align-self:center;
-    }
-    .flex > div:nth-child(2){ 
-        align-self:right;
-       height:200px;
-       font-size:12px;
-
-    }
-    
-    .flex > div:nth-child(3){  
-         align-self:center;
-
-    }
-    .flex > div:nth-child(4){  
-         align-self:center;
-
-    }
-    .flex > div:nth-child(5){  
-         align-self:center;
-
-    }
-    .flex > div:nth-child(6){  
-         align-self:center;
-
-    }
-    .flex > div:nth-child(7){  
-         align-self:center;
-
-    }
-    .flex > div:nth-child(8){  
-         align-self:center;
-
-    }
-    .flex > div:nth-child(9){  
-         align-self:center;
-        font-size:10;
-    }
-        
-    
+/* basic styling */
+width: 20%;
+top: 360px;
+left: 60px;
+position: absolute;
+color: #666;
+font-size: 13px;
+    /* flexbox setup */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    flex-wrap: nowrap;
 }
-    
-    
+
+}
+
+.flex a:hover {
+    background-color: #ccc;
+    color: white;
+            border-radius: 4px;
+}
+body[class*="category-"] .flex {
+    top: 285px;
+   // display: none;
+}
+
+body[class*="categories-list"] .flex {
+    display: none;
+}
+
+body[class*="archetype-regular"] .flex 
+{ display: none; }
